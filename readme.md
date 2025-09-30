@@ -53,3 +53,4 @@ This repo is useful for:
 - Naïve Bayes for text classification
 - Content-Based Recommendation for movies/books
 - DBSCAN for anomaly detection
+- Recommender System
